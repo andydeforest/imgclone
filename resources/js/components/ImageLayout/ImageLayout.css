@@ -1,0 +1,15 @@
+.image-list img:hover {
+	cursor: pointer;
+}
+
+.card-title {
+	font-weight: 600;
+    font-size: 14px;
+	text-align: left;
+}
+
+.card {
+	border-radius: 0 !important;
+	background-color: #474a51 !important;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,.4);
+}

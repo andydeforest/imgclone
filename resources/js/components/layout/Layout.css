@@ -1,0 +1,28 @@
+html,
+body {
+	height: 100vh;
+	background: url('/images/bg2.jpg') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body {
+	color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Permanent Marker', cursive;
+	color: #fff;
+}
+
+nav {
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+nav a {
+	color: #ffffff!important;
+    opacity: 0.75!important;
+    transition: opacity 0.2s ease,color 0.2s ease;
+}

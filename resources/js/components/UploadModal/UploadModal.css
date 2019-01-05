@@ -1,0 +1,38 @@
+.modal-header, .modal-footer {
+	border: none !important;
+}
+
+.modal-header > .close {
+	display: none;
+}
+
+.modal-header {
+	text-align: center;
+	margin: auto;
+}
+
+.modal-title {
+	font-size: 3rem !important;
+
+}
+
+.modal-content {
+	border-radius: 0;	
+	background-color: rgb(66,66,66);
+	color: #fff;
+}
+
+.modal-dialog {
+	color: #000;
+}
+
+.modal .btn {
+	border-radius: 30px;
+	padding: 10px 30px;
+	border: none;
+}
+
+.modal .btn-primary {
+	background-color: #7a26a2;
+
+}
